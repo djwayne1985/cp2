@@ -1,0 +1,25 @@
+{
+  "Panels": [
+    {
+      "name": "Cockpit: WHMCSSmarters",
+      "description": "The Admin Control Panel for Smarters Pro Apps allows seamless remote management of your Smarters Pro application rebrand.",
+      "hosted": "75.00",
+      "hosted_offer": "55.00",
+      "selfhosted": "120.00",
+      "selfhosted_offer": "100.00",
+      "sourcecode": "400.00",
+      "sourcecode_offer": "300.00",
+      "images": [
+        "https://i.imgur.com/avs4Ywa.png",
+        "https://i.imgur.com/knXXHOl.png",
+        "https://i.imgur.com/09tKdlL.png"
+      ],
+      "ytvideo": "https://www.youtube.com/watch?v=AE78LX7aJOU",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://t.me/ianwoneill"
+    }
+  ],
+  "IPTV Apps": [],
+  "VPN Apps": [],
+  "Miscsellaneous": []
+}
