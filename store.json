@@ -2,14 +2,14 @@
   "Panels": [
     {
       "name": "Cockpit V1: Smarters Pro",
-      "description": "The Admin Control Panel for Smarters Pro Apps allows seamless remote management of your Smarters Pro application rebrand.",
+      "description": "The Admin Control Panel for Smarters Pro apps allows seamless remote management of your Smarters Pro application rebrand.",
       "hosted": "",
       "hosted_offer": "",
       "selfhosted": "",
       "selfhosted_offer": "",
       "sourcecode": "300.00",
-      "sourcecode_offer": "150.00",
-      "main_image": "https://i.imgur.com/dSsyISL.png",
+      "sourcecode_offer": "100.00",
+      "main_image": "https://i.imgur.com/UdYsY15.png",
       "images": [
         "https://i.imgur.com/avs4Ywa.png",
         "https://i.imgur.com/knXXHOl.png",
@@ -19,7 +19,48 @@
       "ytvideo": "https://www.youtube.com/watch?v=AE78LX7aJOU",
       "telegram": "https://t.me/ianwoneill",
       "purchase": "https://t.me/ianwoneill"
-    }
+    },
+    {
+      "name": "Cockpit V1: IPTV Purple Player",
+      "description": "The Admin Control Panel for IPTV Purple Player apps allows seamless remote management of your Purple application rebrand.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "300.00",
+      "sourcecode_offer": "100.00",
+      "main_image": "https://i.imgur.com/iBryBDU.png",
+      "images": [
+        "https://i.imgur.com/LHWjF1H.png",
+        "https://i.imgur.com/Jd3Qup1.png",
+        "https://i.imgur.com/JNl1byD.png",
+        "https://i.imgur.com/fsfUtQJ.png",
+        "https://www.youtube.com/watch?v=gOIUrzWiwwk"
+      ],
+      "ytvideo": "https://www.youtube.com/watch?v=gOIUrzWiwwk",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://t.me/ianwoneill"
+    },
+    {
+      "name": "Cockpit V1: OTTRun XCIPTV",
+      "description": "The Admin Control Panel for OTTRunXCIPTV apps allows seamless remote management of your XCIPTV application rebrand.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "300.00",
+      "sourcecode_offer": "100.00",
+      "main_image": "https://i.imgur.com/d7g6bmq.png",
+      "images": [
+        "https://i.imgur.com/36SquRO.png",
+        "https://i.imgur.com/xSV0Kfz.png",
+        "https://i.imgur.com/LEuNnPt.png",
+        "https://www.youtube.com/watch?v=FH6G6PmrkR8"
+      ],
+      "ytvideo": "https://www.youtube.com/watch?v=FH6G6PmrkR8",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://t.me/ianwoneill"
+    },
   ],
   "IPTV Apps": [],
   "VPN Apps": [],
